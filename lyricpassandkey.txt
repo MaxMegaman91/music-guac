@@ -1,0 +1,7 @@
+AIzaSyCAs1m8rklE3vYfyryY25u-gD7JuNhPlKs -- API KEY FROM GOOGLE FOR CUSTOM SEARCH JSON 
+
+<script async src="https://cse.google.com/cse.js?cx=51f3092772c0347b5">
+</script>
+<div class="gcse-search"></div>
+
+51f3092772c0347b5 -- ENGINE ID
